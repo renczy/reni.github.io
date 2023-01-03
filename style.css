@@ -1,0 +1,29 @@
+header {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    background-image: url("pics/background.jpg");
+    background-attachment: fixed;
+    opacity: 0.5;
+    background-size: cover;
+}
+
+
+div {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 1000px;
+}
+
+h1 {
+    background-color: azure;
+    color: rgb(17, 3, 31);
+    opacity: 0.4;
+    height: 100px;
+    width: 500px;
+    border-radius: 10px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
